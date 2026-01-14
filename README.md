@@ -30,7 +30,7 @@ Below are selected labs and projects demonstrating applied security skills:
 
 ## Networking Projects
 - **CYB-210 Network Design Project** — Consolidated two Class C networks in Cisco Packet Tracer, implemented RIP and static routing, configured DHCP and DNS services, and added NAT/PAT for inter-network connectivity.  
-  _Repository:_ https://github.com/sabrinavsimmons/cyb210-network-design-project
+  _Repository:_ https://github.com/sabrinavsimmons/CYB-210-project-two-network-diagrm
 
 ---
 
