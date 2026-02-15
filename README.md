@@ -94,6 +94,5 @@ Below are selected labs and projects demonstrating applied security skills:
 ---
 
 ## Let's Connect
-- **LinkedIn:** https://www.linkedin.com/in/sabrina-simmons-830095a1
-- **GitHub:** https://github.com/sabrinavsimmons  
-- **Email:** sabrinasimmons32509@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/sabrina-simmons-830095a1 
+- **Email:** sabrinasimmons32509@yahoo.com
